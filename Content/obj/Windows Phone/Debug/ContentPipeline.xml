@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\background.xnb</Output>
+      <Time>2010-09-15T14:43:52-07:00</Time>
+    </Item>
+    <Item>
+      <Source>blank.png</Source>
+      <Name>blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\blank.xnb</Output>
+      <Time>2010-09-15T14:43:52-07:00</Time>
+    </Item>
+    <Item>
+      <Source>gradient.png</Source>
+      <Name>gradient</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\gradient.xnb</Output>
+      <Time>2010-09-15T14:43:52-07:00</Time>
+    </Item>
+    <Item>
+      <Source>menufont.spritefont</Source>
+      <Name>menufont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\menufont.xnb</Output>
+      <Time>2010-09-15T14:43:52-07:00</Time>
+    </Item>
+    <Item>
+      <Source>gamefont.spritefont</Source>
+      <Name>gamefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\gamefont.xnb</Output>
+      <Time>2010-09-15T14:43:52-07:00</Time>
+    </Item>
+    <Item>
+      <Source>ring.png</Source>
+      <Name>ring</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\ring.xnb</Output>
+      <Time>2011-03-05T02:38:25.9604857-08:00</Time>
+    </Item>
+    <Item>
+      <Source>soccer field.jpg</Source>
+      <Name>soccer field</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\soccer field.xnb</Output>
+      <Time>2011-03-05T02:38:26.0634916-08:00</Time>
+    </Item>
+    <Item>
+      <Source>star.png</Source>
+      <Name>star</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\star.xnb</Output>
+      <Time>2011-03-05T02:38:26.0964935-08:00</Time>
+    </Item>
+    <Item>
+      <Source>windmill.png</Source>
+      <Name>windmill</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\windmill.xnb</Output>
+      <Time>2011-03-05T02:38:26.140496-08:00</Time>
+    </Item>
+    <Item>
+      <Source>ballkick.wav</Source>
+      <Name>ballkick</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\ballkick.xnb</Output>
+      <Time>2011-03-05T02:38:25.86148-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Ding.wav</Source>
+      <Name>Ding</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\Ding.xnb</Output>
+      <Time>2011-03-05T02:38:25.8744808-08:00</Time>
+    </Item>
+    <Item>
+      <Source>footballkick2.wav</Source>
+      <Name>footballkick2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\footballkick2.xnb</Output>
+      <Time>2011-03-05T02:38:25.8764809-08:00</Time>
+    </Item>
+    <Item>
+      <Source>shrunkball.wav</Source>
+      <Name>shrunkball</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\shrunkball.xnb</Output>
+      <Time>2011-03-05T02:38:25.9744865-08:00</Time>
+    </Item>
+    <Item>
+      <Source>wind.wav</Source>
+      <Name>wind</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\wind.xnb</Output>
+      <Time>2011-03-05T02:38:26.1124944-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>Current</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\Current.xnb</Output>
+      <Time>2011-03-05T02:38:26.0724921-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont2.spritefont</Source>
+      <Name>HighScore</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\HighScore.xnb</Output>
+      <Time>2011-03-05T02:38:26.0824927-08:00</Time>
+    </Item>
+    <Item>
+      <Source>puddle.png</Source>
+      <Name>puddle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\puddle.xnb</Output>
+      <Time>2011-03-08T00:42:21.3717212-08:00</Time>
+    </Item>
+    <Item>
+      <Source>water puddle.png</Source>
+      <Name>water puddle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\water puddle.xnb</Output>
+      <Time>2011-03-08T01:13:37.9820572-08:00</Time>
+    </Item>
+    <Item>
+      <Source>ball.png</Source>
+      <Name>ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\ball.xnb</Output>
+      <Time>2011-03-08T01:30:14.8150728-08:00</Time>
+    </Item>
+    <Item>
+      <Source>red_ball.png</Source>
+      <Name>red_ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\red_ball.xnb</Output>
+      <Time>2011-03-08T02:45:25.2210533-08:00</Time>
+    </Item>
+    <Item>
+      <Source>footballground.wav</Source>
+      <Name>footballground</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\footballground.xnb</Output>
+      <Time>2011-03-09T07:03:10.4139239-08:00</Time>
+    </Item>
+    <Item>
+      <Source>clock.png</Source>
+      <Name>clock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\clock.xnb</Output>
+      <Time>2011-03-10T02:19:17.8440164-08:00</Time>
+    </Item>
+    <Item>
+      <Source>bball hoop2 transparent.png</Source>
+      <Name>bballhoop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\bballhoop.xnb</Output>
+      <Time>2011-03-15T00:37:59.7496431-07:00</Time>
+    </Item>
+    <Item>
+      <Source>bonus-transparent.png</Source>
+      <Name>bonus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\bonus.xnb</Output>
+      <Time>2011-03-15T00:47:39.1537831-07:00</Time>
+    </Item>
+    <Item>
+      <Source>soccer ball.png</Source>
+      <Name>soccer ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\soccer ball.xnb</Output>
+      <Time>2011-03-15T01:40:39.0766643-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\Content\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-01-22T15:25:42.6554654-08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

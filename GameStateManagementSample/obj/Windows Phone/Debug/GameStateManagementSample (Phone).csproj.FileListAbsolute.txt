@@ -1,0 +1,43 @@
+C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\background.xnb
+C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\blank.xnb
+C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\gradient.xnb
+C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\menufont.xnb
+C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\gamefont.xnb
+C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\GameStateManagementSample.dll
+C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\GameStateManagementSample.pdb
+C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\obj\Windows Phone\Debug\GameStateManagementSample.dll
+C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\obj\Windows Phone\Debug\GameStateManagementSample.pdb
+C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\GameThumbnail.png
+C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\GameStateManagementSample.xap
+C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\ring.xnb
+C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\soccer ball.xnb
+C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\soccer field.xnb
+C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\star.xnb
+C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\windmill.xnb
+C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\ballkick.xnb
+C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\Ding.xnb
+C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\footballkick2.xnb
+C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\shrunkball.xnb
+C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\wind.xnb
+C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\Current.xnb
+C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\HighScore.xnb
+C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\bonus.xnb
+C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\puddle.xnb
+C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\water puddle.xnb
+C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\ball.xnb
+C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\red_ball.xnb
+C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\footballground.xnb
+C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\clock.xnb
+C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\Content\bballhoop.xnb
+C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\GameStateManagementSample.xap
+C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Kanav\Documents\Visual Studio 2010\Projects\phone game samle\GameStateManagementSample\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\GameThumbnail.png
